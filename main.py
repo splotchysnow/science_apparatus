@@ -9,3 +9,4 @@ with open(image, "rb") as f:
     information = f.read()
 
 print(information)
+print("Hi")
